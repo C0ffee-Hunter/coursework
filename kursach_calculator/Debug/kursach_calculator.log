@@ -1,0 +1,5 @@
+﻿  kursach_calculator.cpp
+C:\Users\Даниил\source\repos\kursach_calculator\kursach_calculator\calculator.h(181,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Даниил\source\repos\kursach_calculator\kursach_calculator\calculator.h(274,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Даниил\source\repos\kursach_calculator\kursach_calculator\calculator.h(466): warning C4715: calculator::read_string: значение возвращается не при всех путях выполнения
+  kursach_calculator.vcxproj -> C:\Users\Даниил\source\repos\kursach_calculator\Debug\kursach_calculator.exe
